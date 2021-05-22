@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">X_O</string>
+    <string name="wins">WINS</string>
+    <string name="it_s_na_ndraw">Draw</string>
 </resources>

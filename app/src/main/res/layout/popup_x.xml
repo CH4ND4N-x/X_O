@@ -25,7 +25,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/x"
-            android:layout_gravity="center"/>
+            android:layout_gravity="center"
+            android:contentDescription="TODO" />
     </LinearLayout>
     <TextView
         android:layout_width="wrap_content"
@@ -34,6 +35,6 @@
         android:layout_gravity="center"
         android:textStyle="bold"
         android:textColor="@color/black"
-        android:text="WINS"
+        android:text="@string/wins"
         android:padding="20dp"/>
 </LinearLayout>
